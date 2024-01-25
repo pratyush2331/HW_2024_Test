@@ -231,7 +231,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7550337035940696764, guid: 203da32052cd12f49a7f5c4d8c4e9662, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 16.71
+      value: 15.04
       objectReference: {fileID: 0}
     - target: {fileID: 7550337035940696764, guid: 203da32052cd12f49a7f5c4d8c4e9662, type: 3}
       propertyPath: m_LocalRotation.w
@@ -515,7 +515,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7352f9b2cb8dca3488d631a0931e1ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 6
+  movementSpeed: 3
   jumpForce: 5
   groundCheck: {fileID: 942842732}
   ground:
